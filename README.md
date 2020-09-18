@@ -2,7 +2,5 @@
 ## realizando um teste com a estrutura de respositórios do github
 
 
-Teste para pull
 
-
-TESTE PARA PULL #2 ###
+NOVA ALTERAÇÃO PARA REALIZAÇÃO DO PULL
